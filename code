@@ -24,7 +24,7 @@ function sort( arr, n)
 
 
 	
-	let arr = [10, 90, 49, 2, 1, 5, 23];
+	let arr = [25, 70, 30, 8, 5, 7, 21];
 	let n = arr.length;
 	sort(arr, n);
 	for (let i=0; i<n; i++)
